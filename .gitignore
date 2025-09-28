@@ -1,0 +1,10 @@
+# Unreal Engine project files to ignore
+.vs/
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+Build/
+*.VC.db
+*.opensdf
+*.sdf
